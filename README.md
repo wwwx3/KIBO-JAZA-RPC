@@ -1,13 +1,13 @@
 # 🌸 KIBO-JAZA-RPC 🌸
 
 Training for the **6th Kibo (JAZA) Robot Programming Challenge (RPC)** 🚀✨
-This repo is where I keep my modules, utils, and all the little steps of my journey ♡ so I won’t forget anything (´｡• ◡ •｡\`)
+This repo is where I keep my modules, utils, and all the little steps of my journey ♡ so I won’t forget anything (Cuz im so forgetful lol) (´｡• ◡ •｡\`)
 
 ---
 
 ## ✨ Overview
 
-The **Kibo-RPC** is an international challenge hosted by **JAXA, NASA, ESA, CSA** where students control the **Astrobee robot** inside the ISS (´▽\`ʃ♡ƪ)
+The **Kibo-RPC** is an international challenge hosted by **JAXA, NASA, ESA, CSA** where students control the **Astrobee robot** inside the ISS via andriod simulator. (´▽\`ʃ♡ƪ)
 
 This repo is my space to:
 
@@ -65,13 +65,13 @@ python modules/<your_module>.py
 
 ## 🏆 Goal
 
-To grow stronger in robotics programming and give my best in the **6th Kibo (JAZA) RPC** ～(つ≧▽≦)つ
+To grow stronger in robotics programming and give my best in the Kibo (JAZA) RPC** ～(つ≧▽≦)つ
 
 ---
 
 ## 📜 License
 
-MIT License. See [LICENSE](LICENSE) file. (⌒‿⌒)
+MIT License. See [LICENSE](LICENSE) file.
 
 ---
 
@@ -88,7 +88,7 @@ If you wanna add something (｡•̀ᴗ-)✧:
 
 ## 🌌 Acknowledgements
 
-* 🛰️ **JAXA, NASA, ESA, CSA** – for this amazing challenge
-* ✨ My teammates + mentors – thank u for the support
-* 💡 The open-source community – endless inspiration
+* 🛰️ **JAXA, NASA, ESA, CSA** – for this wonderful challenge that promotes growth.
+* ✨ My teammates + mentors – thank u for all the support.
+* 💡 The open-source community – endless inspiration.
 
