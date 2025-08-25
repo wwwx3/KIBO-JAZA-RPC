@@ -1,3 +1,8 @@
+------------------------------------------------------------------------------------------------------------
+"""This Util is for helping users pick out the desired HSV color range values in order to dissect the wanted part from the whole picture 
+in CVAT later on. On the threshold mask."""
+-------------------------------------------------------------------------------------------------------------
+
 import cv2
 import numpy as np
 
