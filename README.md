@@ -1,7 +1,7 @@
 #  KIBO-JAZA-RPC 
 
 Training for the **6th Kibo (JAZA) Robot Programming Challenge (RPC)** 
-This repo is where I keep my modules, utils, and all the little steps of my journey ♡ so I won’t forget anything 
+This repo is where I keep my modules, utils, and all the little steps of my journey so I won’t forget anything 
 
 ---
 
