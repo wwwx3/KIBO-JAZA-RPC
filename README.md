@@ -47,13 +47,13 @@ MIT License.
 ## Acknowledgements
 
 *  **JAXA, NASA, ESA, CSA** – for this wonderful challenge that promotes growth.
-*  My teammates + mentors + Juniors, thank u for all the support.
+*  My teammates and mentor, thank u for all the support.
 
 **Mentor :**
  
   - Mr.Thanachot Nasawasd
 
-**Juniors :**
+**Juniors Teammates :**
 
   - Mr.Sirot Sathathumarug
    
