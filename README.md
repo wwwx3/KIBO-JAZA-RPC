@@ -26,32 +26,8 @@ KIBO-JAZA-RPC/
 ├── utils/          # helpful tools + constants
 ├── docs/           # my notes + learnings
 ├── experiments/    # practice + trial runs
-└── README.md       # you are here ٩(◕‿◕｡)۶
+└── README.md       # you are here 
 ```
-
----
-
-## 🧑‍💻 Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/<your-username>/KIBO-JAZA-RPC.git
-cd KIBO-JAZA-RPC
-```
-
-### 2. Install requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run a module
-
-```bash
-python modules/<your_module>.py
-```
-
 ---
 
 ## 🏆 Goal
