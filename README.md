@@ -22,9 +22,8 @@ This repo is my space to:
 ```
 KIBO-JAZA-RPC/
 │
-├── modules/        # (〃▽〃) core practice modules
+├── modules/        # core practice modules
 ├── utils/          # helpful tools + constants
-├── docs/           # my notes + learnings
 ├── experiments/    # practice + trial runs
 └── README.md       # you are here 
 ```
