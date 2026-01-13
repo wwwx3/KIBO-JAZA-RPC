@@ -11,9 +11,9 @@ The **Kibo-RPC** is an international challenge hosted by **JAXA, NASA, ESA, CSA*
 
 This repo is my space to:
 
-* 🛠️ Practice and test different modules
-* 📚 Save utils + notes so I don’t lose them
-* 🎯 Track my progress for the **6th Kibo (JAZA) RPC**
+* Practice and test different modules
+* Save utils + notes so I don’t lose them
+* Track my progress for the **6th Kibo (JAZA) RPC**
 
 ---
 
@@ -29,7 +29,7 @@ KIBO-JAZA-RPC/
 ```
 ---
 
-## 🏆 Goal
+## Goal
 
 To grow stronger in robotics programming and give my best in the Kibo (JAZA) RPC mentoring juniors.** ～(つ≧▽≦)つ
 One of the main challenges in this programming challenge is that the programming language required to run on Android Studio for the simulation to work is Java. 
@@ -44,7 +44,7 @@ MIT License. See [LICENSE](LICENSE) file.
 
 ---
 
-## 🌌 Acknowledgements
+## Acknowledgements
 
 * 🛰️ **JAXA, NASA, ESA, CSA** – for this wonderful challenge that promotes growth.
 * ✨ My teammates + mentors + Juniors, thank u for all the support.
