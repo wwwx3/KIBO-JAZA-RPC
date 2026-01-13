@@ -48,8 +48,12 @@ MIT License.
 
 *  **JAXA, NASA, ESA, CSA** – for this wonderful challenge that promotes growth.
 *  My teammates + mentors + Juniors, thank u for all the support.
+
   -Sirot Sathathumarug
+   
   -Thanabodee Worrakul
+  
   -Krittaphot Kittipoomwong
+  
 *  The open-source community – endless inspiration.
 
