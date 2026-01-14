@@ -17,7 +17,7 @@ This repo is my space to:
 
 ---
 
-## 📂 Structure
+## Structure
 
 ```
 KIBO-JAZA-RPC/
