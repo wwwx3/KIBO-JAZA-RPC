@@ -1,18 +1,19 @@
 #  KIBO-JAZA-RPC 
 
 Training for the **6th Kibo (JAZA) Robot Programming Challenge (RPC)** 
-This repo is where I keep my modules, utils, and all the little steps of my journey so I won’t forget anything 
+This repo is where I keep my modules, utils as an archive of what we did.
 
 ---
 
 ##  Overview
 
-The **Kibo-RPC** is an international challenge hosted by **JAXA, NASA, ESA, CSA** where students control the **Astrobee robot** inside the ISS via andriod simulator. (´▽\`ʃ♡ƪ)
+The **Kibo-RPC** is an international challenge hosted by **JAXA, NASA, ESA, CSA** where students control the **Astrobee robot** inside the ISS via andriod simulator. 
+
 
 This repo is my space to:
 
 * Practice and test different modules
-* Save utils + notes so I don’t lose them
+* Save utils + notes 
 * Track my progress for the **6th Kibo (JAZA) RPC**
 
 ---
